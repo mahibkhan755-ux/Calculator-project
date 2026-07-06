@@ -1,0 +1,72 @@
+
+#eql:hover{
+    background-color: rgb(43, 43, 24);
+    color:  white;
+}
+#eql{
+    background-color: green;
+    color:  black;
+}
+
+#del:hover{
+    background-color: rgb(17, 36, 17);
+    color:  white;
+}
+
+#del{
+    background-color: red;
+    color: black;
+}
+#ac:hover{
+    background-color: olive;
+    color:  black;
+}
+#ac{
+    background-color: orange;
+    color: black;
+}
+button:hover{
+    background-color: orange;
+    color: white;
+}
+button{
+    
+    margin: 35px;
+    padding: 6px;
+    width: 40px;
+    text-align: center;
+    font-weight: 900;
+    background-color: black;
+    color: white;
+    font-size: large;
+    
+
+}
+#input{
+    width: 475px;
+    height: 50px;
+    text-align: right;
+    font-size: xx-large;
+    font-weight: 900;
+    background-color: white;
+    color: black;
+    padding: 12px;
+    border:none ;
+}
+#box{
+    border:  solid black;
+    width: 500px;
+    height: 600px;
+    text-align: center;
+    background-color: rgb(148, 137, 137);
+    color: white;
+    border:none;
+}
+body{
+    background-color:  black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+};
+
